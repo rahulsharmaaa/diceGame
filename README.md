@@ -1,4 +1,4 @@
--This project was included in Udemy course as the instructor provided html,css layout as this project was focused on Javascript aspect of the project.
+This project was included in Udemy course as the instructor provided html,css layout as this project was focused on Javascript aspect of the project.
 
 GAME RULES:
 
