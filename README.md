@@ -1,3 +1,5 @@
+This project was included in Udemy course as the instructor provided HTML, CSS layout. This project was focused on JavaScript aspect of the project. This project is built using HTML, CSS and JavaScript.
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds.
